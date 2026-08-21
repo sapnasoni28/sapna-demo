@@ -1,2 +1,2 @@
 # sapna-demo
-This is demo  about github
+This is Demo for Git & Github class
